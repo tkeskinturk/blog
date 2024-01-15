@@ -7,6 +7,7 @@
 $palatino-font: 'Palatino', sans-serif;
 
 // implement
+$font-family-serif: $palatino-font;
 $font-family-sans-serif: $palatino-font;
 $font-family-monospace: 'Consolas';
 
