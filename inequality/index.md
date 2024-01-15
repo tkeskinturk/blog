@@ -1,6 +1,7 @@
 ---
 title: "Sociology's Inequality Problem"
 date: 2023-10-10
+author: Turgut Keskintürk
 ---
 
 A few months ago Beth Popp Berman posted [a tweet](https://twitter.com/epopppp/status/1585804781204881410), saying "I love you, sociologists, but do *all* of us have to work on inequality?" This generated a plethora of responses from sociologists, some arguing that inequality defines the subject-matter of sociology (much like "markets" in economics), while others emphasizing a pervasive feeling that inequality per se has become *the* topic of sociology, broadly construed. Going forward, one particularly interesting response stated that ["a prof once told me that if I want to publish in a top sociology journal, I need to emphasize how a social process I’ve identified in my research perpetuates or exacerbates inequality."](https://twitter.com/chiarapack/status/1585842671972909061)

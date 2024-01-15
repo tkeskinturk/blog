@@ -1,6 +1,7 @@
 ---
 title: "Puzzle-Making in Sociology"
 date: 2022-12-24
+author: Turgut Keskintürk
 ---
 
 One distinctive feature of academic socialization is to cultivate sensibilities for good puzzles. We need, one hears all the time, interesting research puzzles that work as a *motivation* for our scientific pursuits, an *intellectual justification* for the readers (["That's interesting!"](https://proseminarcrossnationalstudies.files.wordpress.com/2009/11/thatsinteresting_1971.pdf)), and a *theoretical contribution* for the reviewers. If anything, a good puzzle is a sign of a curious mind, someone who appreciates the intricacies of the real world. This is reflected in texts designed to provide wise suggestions to researchers, and a cursory look at the articles in the *American Sociological Review* from 1936 to 2019 (see the Figure below) confirms this wisdom, showing that the puzzles have, in fact, been increasing.

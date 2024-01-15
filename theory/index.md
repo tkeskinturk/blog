@@ -2,6 +2,7 @@
 title: "Theory and What?"
 date: 2024-01-13
 image: ../images/theory-society.png
+author: Turgut Keskintürk
 ---
 
 The *Theory and Society* incident[^1] sparked a range of debates among social scientists, and it seems that we now have a convergence around two basic points.
