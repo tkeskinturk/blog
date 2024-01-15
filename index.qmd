@@ -1,0 +1,12 @@
+---
+listing:
+  type: default
+  contents: 
+    - "*.md"
+  image-height: 2in
+  sort: "date desc"
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
