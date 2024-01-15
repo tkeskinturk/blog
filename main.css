@@ -13,3 +13,5 @@ $font-family-monospace: 'Consolas';
 
 $link-color: #779ecb;
 $primary: #779ecb;
+
+@webkit-font-smoothing: antialiased;
