@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Blog"
+  open-graph: true
+  twitter-card: true
+  navbar:
+    title: false
+    left:
+      - icon: house
+        text: homepage
+        href: https://tkeskinturk.github.io/
+      - icon: pen
+        text: blog
+        href: https://tkeskinturk.github.io/blog/
+
+format:
+  html:
+    theme: [main.css]
+    fig-align: center
+    code-fold: show
+    grid:
+      sidebar-width: 100px
+      margin-width: 500px
+
+editor: visual
